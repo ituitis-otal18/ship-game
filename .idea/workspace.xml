@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73823f1d-d9b6-4bd9-ba30-78cd8bded81b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ship Game" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2354">
+              <caret line="300" selection-start-line="300" selection-end-line="300" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#349#1909#0" />
+                <element signature="e#1517#1554#0" />
+                <element signature="e#1940#3391#0" />
+                <element signature="e#2054#2111#0" />
+                <element signature="e#2260#2337#0" />
+                <element signature="e#2392#2469#0" />
+                <element signature="e#2524#2601#0" />
+                <element signature="e#2656#2733#0" />
+                <element signature="e#2788#2865#0" />
+                <element signature="e#2920#2997#0" />
+                <element signature="e#3052#3129#0" />
+                <element signature="e#3184#3261#0" />
+                <element signature="e#3423#3598#0" />
+                <element signature="e#3722#3823#0" />
+                <element signature="e#3907#3944#0" />
+                <element signature="e#4575#6421#0" />
+                <element signature="e#4616#6421#0" />
+                <element signature="e#4844#5862#0" />
+                <element signature="e#4921#5035#0" />
+                <element signature="e#5132#5264#0" />
+                <element signature="e#5361#5493#0" />
+                <element signature="e#5537#5862#0" />
+                <element signature="e#5626#5688#0" />
+                <element signature="e#5800#5862#0" />
+                <element signature="e#5949#6123#0" />
+                <element signature="e#5998#6123#0" />
+                <element signature="e#6171#6292#0" />
+                <element signature="e#6451#6471#0" />
+                <element signature="e#6493#7464#0" />
+                <element signature="e#6521#6726#0" />
+                <element signature="e#6758#6884#0" />
+                <element signature="e#6921#7120#0" />
+                <element signature="e#6968#7099#0" />
+                <element signature="e#7151#7248#0" />
+                <element signature="e#7278#7464#0" />
+                <element signature="e#7485#7730#0" />
+                <element signature="e#7549#7653#0" />
+                <element signature="e#7683#7730#0" />
+                <element signature="e#7755#8586#0" />
+                <element signature="e#7811#8090#0" />
+                <element signature="e#8122#8359#0" />
+                <element signature="e#8158#8359#0" />
+                <element signature="e#8202#8302#0" />
+                <element signature="e#8389#8586#0" />
+                <element signature="e#8671#8924#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/map.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pygame</find>
+      <find>canon</find>
+      <find>key</find>
+      <find>Ship</find>
+      <find>Tower.towerAmount</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Pygame App/main.py" />
+        <option value="$PROJECT_DIR$/map.txt" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-154" />
+    <option name="y" value="150" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ship Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73823f1d-d9b6-4bd9-ba30-78cd8bded81b" name="Default Changelist" comment="" />
+      <created>1560778278720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560778278720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-123" y="120" width="1552" height="840" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.075247526" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50141644" side_tool="true" weight="0.069398545" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.105932206" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" weight="0.069398545" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50141644" side_tool="true" weight="0.069398545" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.08073654" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Draw/draw.py" />
+    <entry file="file://$PROJECT_DIR$/../Pygame App/main.py" />
+    <entry file="file://$PROJECT_DIR$/../Car/car.py" />
+    <entry file="file://$PROJECT_DIR$/../Soldier Game/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="277" column="27" lean-forward="true" selection-start-line="277" selection-start-column="27" selection-end-line="277" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2354">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#349#1909#0" />
+            <element signature="e#1517#1554#0" />
+            <element signature="e#1940#3391#0" />
+            <element signature="e#2054#2111#0" />
+            <element signature="e#2260#2337#0" />
+            <element signature="e#2392#2469#0" />
+            <element signature="e#2524#2601#0" />
+            <element signature="e#2656#2733#0" />
+            <element signature="e#2788#2865#0" />
+            <element signature="e#2920#2997#0" />
+            <element signature="e#3052#3129#0" />
+            <element signature="e#3184#3261#0" />
+            <element signature="e#3423#3598#0" />
+            <element signature="e#3722#3823#0" />
+            <element signature="e#3907#3944#0" />
+            <element signature="e#4575#6421#0" />
+            <element signature="e#4616#6421#0" />
+            <element signature="e#4844#5862#0" />
+            <element signature="e#4921#5035#0" />
+            <element signature="e#5132#5264#0" />
+            <element signature="e#5361#5493#0" />
+            <element signature="e#5537#5862#0" />
+            <element signature="e#5626#5688#0" />
+            <element signature="e#5800#5862#0" />
+            <element signature="e#5949#6123#0" />
+            <element signature="e#5998#6123#0" />
+            <element signature="e#6171#6292#0" />
+            <element signature="e#6451#6471#0" />
+            <element signature="e#6493#7464#0" />
+            <element signature="e#6521#6726#0" />
+            <element signature="e#6758#6884#0" />
+            <element signature="e#6921#7120#0" />
+            <element signature="e#6968#7099#0" />
+            <element signature="e#7151#7248#0" />
+            <element signature="e#7278#7464#0" />
+            <element signature="e#7485#7730#0" />
+            <element signature="e#7549#7653#0" />
+            <element signature="e#7683#7730#0" />
+            <element signature="e#7755#8586#0" />
+            <element signature="e#7811#8090#0" />
+            <element signature="e#8122#8359#0" />
+            <element signature="e#8158#8359#0" />
+            <element signature="e#8202#8302#0" />
+            <element signature="e#8389#8586#0" />
+            <element signature="e#8671#8924#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
